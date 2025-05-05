@@ -1,1 +1,1 @@
-<img src="/ohayo.jpg">
+<img alt="OHAYO" src="/ohayo.jpg">
