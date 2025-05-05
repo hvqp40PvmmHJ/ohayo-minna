@@ -1,1 +1,1 @@
-<img src="%sveltekit.assets%/ohayo.jpg">
+<img src="/ohayo.jpg">
